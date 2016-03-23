@@ -5,3 +5,13 @@ authors:
   - Luke van der Hoeven <hungerandthirst@gmail.com>
 
 license: MIT
+
+dependencies:
+  commander:
+    github: plukevdh/commander
+    branch: updates-for-crystal-0.13
+
+development_dependencies:
+  mock:
+    github: porras/mock
+
